@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "27899fca-8efc-40f3-9b76-01d40a140a27"
+      }
+    },
+    "android": {
+      "package": "com.nadhirg18.xhaw5112app"
+    }
+  }
+}
